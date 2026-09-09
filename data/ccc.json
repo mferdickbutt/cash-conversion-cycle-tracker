@@ -1,0 +1,194 @@
+{
+  "company": "Northwind Components",
+  "currency": "USD",
+  "asOf": "2025-09",
+  "notes": "Period-end AR, inventory, and AP. Purchases are explicit (not inferred from COGS). Days are calendar days in each month.",
+  "targets": {
+    "dso": 45,
+    "dio": 50,
+    "dpo": 38,
+    "ccc": 57
+  },
+  "months": [
+    {
+      "month": "2024-04",
+      "days": 30,
+      "ar": 720000,
+      "revenue": 450000,
+      "inventory": 540000,
+      "cogs": 270000,
+      "ap": 300000,
+      "purchases": 285000
+    },
+    {
+      "month": "2024-05",
+      "days": 31,
+      "ar": 705000,
+      "revenue": 465000,
+      "inventory": 528000,
+      "cogs": 280000,
+      "ap": 312000,
+      "purchases": 292000
+    },
+    {
+      "month": "2024-06",
+      "days": 30,
+      "ar": 698000,
+      "revenue": 472000,
+      "inventory": 515000,
+      "cogs": 285000,
+      "ap": 318000,
+      "purchases": 288000
+    },
+    {
+      "month": "2024-07",
+      "days": 31,
+      "ar": 680000,
+      "revenue": 480000,
+      "inventory": 508000,
+      "cogs": 290000,
+      "ap": 325000,
+      "purchases": 295000
+    },
+    {
+      "month": "2024-08",
+      "days": 31,
+      "ar": 675000,
+      "revenue": 488000,
+      "inventory": 495000,
+      "cogs": 295000,
+      "ap": 338000,
+      "purchases": 300000
+    },
+    {
+      "month": "2024-09",
+      "days": 30,
+      "ar": 662000,
+      "revenue": 495000,
+      "inventory": 490000,
+      "cogs": 298000,
+      "ap": 345000,
+      "purchases": 302000
+    },
+    {
+      "month": "2024-10",
+      "days": 31,
+      "ar": 670000,
+      "revenue": 510000,
+      "inventory": 520000,
+      "cogs": 310000,
+      "ap": 350000,
+      "purchases": 325000
+    },
+    {
+      "month": "2024-11",
+      "days": 30,
+      "ar": 690000,
+      "revenue": 525000,
+      "inventory": 560000,
+      "cogs": 320000,
+      "ap": 355000,
+      "purchases": 350000
+    },
+    {
+      "month": "2024-12",
+      "days": 31,
+      "ar": 820000,
+      "revenue": 540000,
+      "inventory": 610000,
+      "cogs": 335000,
+      "ap": 340000,
+      "purchases": 380000
+    },
+    {
+      "month": "2025-01",
+      "days": 31,
+      "ar": 780000,
+      "revenue": 500000,
+      "inventory": 580000,
+      "cogs": 305000,
+      "ap": 348000,
+      "purchases": 290000
+    },
+    {
+      "month": "2025-02",
+      "days": 28,
+      "ar": 650000,
+      "revenue": 490000,
+      "inventory": 500000,
+      "cogs": 295000,
+      "ap": 360000,
+      "purchases": 280000
+    },
+    {
+      "month": "2025-03",
+      "days": 31,
+      "ar": 640000,
+      "revenue": 515000,
+      "inventory": 485000,
+      "cogs": 310000,
+      "ap": 372000,
+      "purchases": 300000
+    },
+    {
+      "month": "2025-04",
+      "days": 30,
+      "ar": 620000,
+      "revenue": 530000,
+      "inventory": 470000,
+      "cogs": 318000,
+      "ap": 385000,
+      "purchases": 310000
+    },
+    {
+      "month": "2025-05",
+      "days": 31,
+      "ar": 610000,
+      "revenue": 545000,
+      "inventory": 455000,
+      "cogs": 325000,
+      "ap": 398000,
+      "purchases": 318000
+    },
+    {
+      "month": "2025-06",
+      "days": 30,
+      "ar": 598000,
+      "revenue": 552000,
+      "inventory": 448000,
+      "cogs": 330000,
+      "ap": 405000,
+      "purchases": 322000
+    },
+    {
+      "month": "2025-07",
+      "days": 31,
+      "ar": 585000,
+      "revenue": 560000,
+      "inventory": 440000,
+      "cogs": 335000,
+      "ap": 412000,
+      "purchases": 328000
+    },
+    {
+      "month": "2025-08",
+      "days": 31,
+      "ar": 572000,
+      "revenue": 568000,
+      "inventory": 428000,
+      "cogs": 340000,
+      "ap": 420000,
+      "purchases": 332000
+    },
+    {
+      "month": "2025-09",
+      "days": 30,
+      "ar": 555000,
+      "revenue": 575000,
+      "inventory": 415000,
+      "cogs": 345000,
+      "ap": 430000,
+      "purchases": 338000
+    }
+  ]
+}
